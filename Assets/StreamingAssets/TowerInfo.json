@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "money": 30,
+    "atk": 5,
+    "atkRange": 8,
+    "offsetTime": 4,
+    "res": "Tower/1",
+    "eff": "eff/2"
+  },
+  {
+    "id": 2,
+    "money": 60,
+    "atk": 10,
+    "atkRange": 10,
+    "offsetTime": 3,
+    "res": "Tower/2",
+    "eff": "eff/2"
+  },
+  {
+    "id": 3,
+    "money": 100,
+    "atk": 20,
+    "atkRange": 12,
+    "offsetTime": 2,
+    "res": "Tower/3",
+    "eff": "eff/2"
+  }
+]
